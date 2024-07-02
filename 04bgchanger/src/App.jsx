@@ -26,9 +26,7 @@ function App() {
         <button onClick={()=>setColor("grey")}  className="outline-none  px-4 rounded-full" style={{backgroundColor:"grey"}}>grey</button  >
 
         <button  onClick={()=>setColor("white")} className="outline-none  px-4 rounded-full" style={{backgroundColor:"white"}}>white</button >
-         
         
-
         </div>
       </div>
     </div>
